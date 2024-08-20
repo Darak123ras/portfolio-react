@@ -1,7 +1,7 @@
 // Bad practice using Global CSS
 import "./App.css";
 import Navigation from './components/Navigation';
-import Home from "./components/home";
+import Home from "./components/Home";
 
 const App = () =>{
   return (
