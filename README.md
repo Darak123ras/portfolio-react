@@ -1,4 +1,16 @@
 # React + Vite
+To create vite: npm create vite@latest
+install dependencies: npm i
+To run: npm run dev
+
+This Project is basically short introduction of myself.
+
+React.js Javascript HTML CSS Tailwind MongoDB Node.js
+
+
+
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
