@@ -1,4 +1,9 @@
 # React + Vite
+
+It's just a starting Project.
+
+
+
 To create vite: npm create vite@latest
 install dependencies: npm i
 To run: npm run dev
