@@ -7,6 +7,9 @@
 
 body{
   font-family: "Poppins",sans-serif;
+  background: linear-gradient(rgb(186, 114, 114),rgb(134, 206, 128),rgb(137, 181, 128));
+  background-repeat: no-repeat;
+  /* height: 100vh; */
 }
 
 :root{
@@ -106,4 +109,12 @@ nav img{
   width: 27px;
   
  }
+
+ .about{
+  height: 100vh;
+  width: 100%;
+  margin: 80px;
+ }
+
+ 
  

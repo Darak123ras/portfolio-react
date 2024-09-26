@@ -11,8 +11,9 @@ const Home=()=>{
                 <div className="social">
                     <p>Contact</p>
                     <div className="social-contact">
-                        <img src="images/github.png" alt="github" />
-                        <img src="images/linkedin.png" alt="linkedin" />
+                        <a href="https://github.com/Darak123ras"><img src="images/github.png" alt="github" /></a>
+                        <a href="https://www.linkedin.com/in/darakshan-manower-rasheed-1517981b7/"><img src="images/linkedin.png" alt="linkedin" /></a>
+                        
                     </div>
                 </div>
 

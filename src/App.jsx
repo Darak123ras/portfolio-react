@@ -2,6 +2,7 @@
 import "./App.css";
 import Navigation from './components/Navigation';
 import Home from "./components/Home";
+import About from './components/About'
 
 const App = () =>{
   return (
@@ -9,6 +10,7 @@ const App = () =>{
     {/* For the Navbar */}
     <Navigation />
     <Home />
+    <About />
   </div>
   );
 };

@@ -5,12 +5,12 @@ const Navigation=()=>{
                 <img src="images/D.png" alt="logo" />
             </div>
             <ul>
-                <li href="#">Home</li>
-                <li href="#">About</li>
-                <li href="#">Skills</li>
-                <li href="#">Contact</li>
+                <li href="#"><a href="">Home</a></li>
+                <li href="#"><a href="">About</a></li>
+                <li href="#"><a href="">Skills</a></li>
+                <li href="#"><a href="">Contact</a></li>
             </ul>
-            <button>Download</button>
+            <button >Download</button>
         </nav>
     );
 };
