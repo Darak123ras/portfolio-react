@@ -5,8 +5,8 @@ const Navigation=()=>{
                 <img src="images/D.png" alt="logo" />
             </div>
             <ul>
-                <li href="#"><a href="">Home</a></li>
-                <li href="#"><a href="">About</a></li>
+                <li href="#"><a href="#home">Home</a></li>
+                <li href="#"><a href="#about">About</a></li>
                 <li href="#"><a href="">Skills</a></li>
                 <li href="#"><a href="">Contact</a></li>
             </ul>

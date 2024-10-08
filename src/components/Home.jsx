@@ -1,6 +1,6 @@
 const Home=()=>{
     return (
-        <main className="home container">
+        <main className="home container" id="home">
             <div className="content">
                 <h1>Welcome to my Portfolio</h1>
                 <p>Hello, My name is Darakshan Manower Rasheed. I am Aspiring to become a Software Developer.</p>
